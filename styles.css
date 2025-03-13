@@ -1,0 +1,36 @@
+body {
+    background-color: #98AFC7;
+}
+h2{
+    font-family: "Yatra One", system-ui;
+    text-align: center;
+}
+.headerLink {
+    color: white;
+  }
+  li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
+  header {
+    text-align: center;
+    background-size: cover;
+    color: black;
+  }
+  ul {
+    background-color:rgba(0, 0, 0, 0.5);
+    padding: 10px;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  #headerPic {
+    margin: 40px 0px 0px 0px;
+    border: 10px solid whitesmoke;
+  }
+  article {
+    max-width: 650px;
+    padding: 20px;
+    margin: 0 auto;
+    text-align: center;
+  }
